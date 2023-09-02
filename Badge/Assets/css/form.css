@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.context{
+    text-align: center;
+    justify-content: center;
+    margin-top: 60px;
+    background:linear-gradient(rgb(166, 228, 248),rgb(98, 98, 248));
+    
+}
+form {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  input[type=text], input[type=color] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=radio] {
+
+    margin-right: 1em;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding:30px;
+  }
+  .name{
+    text-align: center;
+    font-size: 40px;
+    font-family:'poppins', sans-serif ;
+   
+  }
+  input:hover{
+    background-color: rgb(238, 255, 87);
+  }
+
+  
